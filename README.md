@@ -18,7 +18,7 @@ The series is still lack of certain topics such as:
 different targets (MCU targets)
 
 ### File:
-[[bare_metal_arm_vijay.pdf]]
+[Bare Metal ARM Architecture](bare_metal_arm_vijay.pdf)
 
 ### Reference:
 Original Author	: vijaykumar@bravegnu.org
