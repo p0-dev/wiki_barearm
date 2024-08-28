@@ -17,6 +17,9 @@ The series is still lack of certain topics such as:
 - Preparing the C Run-time environment for executing C source code on 
 different targets (MCU targets)
 
+### File:
+[[bare_metal_arm_vijay.pdf]]
+
 ### Reference:
 Original Author	: vijaykumar@bravegnu.org
 Website			    : https://www.bravegnu.org/
