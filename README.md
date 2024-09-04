@@ -23,6 +23,6 @@ different targets (MCU targets)
 - File_2: [Bare Metal ARM Architecture With STM32 - John Valle](arm_bare_metal_programming_valle.pdf)
 
 ### Reference:
-Original Author	: vijaykumar@bravegnu.org    | Website : https://www.bravegnu.org/
-Original Author : jbvalle.jv@gmail.com       | Website : https://jbvalle.github.io/stm32_bare_metal_startup_linker.html
+- Original Author	: vijaykumar@bravegnu.org    | Website : https://www.bravegnu.org/
+- Original Author : jbvalle.jv@gmail.com       | Website : https://jbvalle.github.io/stm32_bare_metal_startup_linker.html
 
