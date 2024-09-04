@@ -1,6 +1,7 @@
 ### Introduction:
-This series of documents is credit to <vijaykumar@bravegnu.org> and the web page:
-https://www.bravegnu.org/
+This series of documents is credit to:
+- <vijaykumar@bravegnu.org> and the web page: https://www.bravegnu.org/
+- <jbvalle.jv@gmail.com> and the web page: https://jbvalle.github.io/stm32_bare_metal_startup_linker.html
 
 This series of document describe the bare metal architecture of basic ARM 
 micro-processor. This includes various subject such as:
@@ -18,9 +19,10 @@ The series is still lack of certain topics such as:
 different targets (MCU targets)
 
 ### File:
-[Bare Metal ARM Architecture](bare_metal_arm_vijay.pdf)
+[Bare Metal ARM Architecture Dive Deep Into Linker Script - Vijay Kumar](bare_metal_arm_vijay.pdf)
+[Bare Metal ARM Architecture With STM32 - John Valle](arm_bare_metal_programming_valle.pdf)
 
 ### Reference:
-Original Author	: vijaykumar@bravegnu.org
-Website			    : https://www.bravegnu.org/
+Original Author	: vijaykumar@bravegnu.org    | Website : https://www.bravegnu.org/
+Original Author : jbvalle.jv@gmail.com       | Website : https://jbvalle.github.io/stm32_bare_metal_startup_linker.html
 
