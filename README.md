@@ -19,8 +19,8 @@ The series is still lack of certain topics such as:
 different targets (MCU targets)
 
 ### File:
-File_1: [Bare Metal ARM Architecture Dive Deep Into Linker Script - Vijay Kumar](bare_metal_arm_vijay.pdf)
-File_2: [Bare Metal ARM Architecture With STM32 - John Valle](arm_bare_metal_programming_valle.pdf)
+- File_1: [Bare Metal ARM Architecture Dive Deep Into Linker Script - Vijay Kumar](bare_metal_arm_vijay.pdf)
+- File_2: [Bare Metal ARM Architecture With STM32 - John Valle](arm_bare_metal_programming_valle.pdf)
 
 ### Reference:
 Original Author	: vijaykumar@bravegnu.org    | Website : https://www.bravegnu.org/
