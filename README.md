@@ -20,6 +20,7 @@ different targets (MCU targets)
 
 ### File:
 [Bare Metal ARM Architecture Dive Deep Into Linker Script - Vijay Kumar](bare_metal_arm_vijay.pdf)
+
 [Bare Metal ARM Architecture With STM32 - John Valle](arm_bare_metal_programming_valle.pdf)
 
 ### Reference:
